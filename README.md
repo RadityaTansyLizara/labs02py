@@ -8,7 +8,9 @@
 * memeriksa apakah bilangan1, bilangan2, dan bilangan3 ?. jika benar, maka bilangan1 yang terbesar
 # Ketiga
 jika kondisi pertama salah, maka memeriksa apakah bilangan2 lebih besar dari pada bilangan1 dan bilangan3. jika benar, maka bilangan2 yang terbesar. jika kedua kondisi kedua sebelumnya salah, maka bilangan3 yang terbesar. hasil bilangan terbesar menggunakan pernyataan print.
+
 # OUTPUTNYA
+
 * Dengan demikian, program akan menentukan bilangan terbesar di antara ketiga bilangan yang dimasukkan oleh pengguna dan mencetaknya ke layar.
 
   # Modul 3
@@ -21,8 +23,6 @@ jika kondisi pertama salah, maka memeriksa apakah bilangan2 lebih besar dari pad
 * if random_number < 0.5:: Program memeriksa apakah random_number kurang dari 0.5. Jika benar, maka bilangan tersebut akan dicetak.
 * print(random_number): Jika bilangan acak memenuhi kondisi sebelumnya (kurang dari 0.5), maka bilangan tersebut akan dicetak ke layar.
 
-# OUTPUTNYA
-
 # LATIHAN2
 * max_number = None: Variabel max_number diinisialisasi dengan nilai None. Ini digunakan untuk menyimpan bilangan terbesar yang akan dicari nantinya.
 * while True:: Ini adalah awal dari loop while yang akan berjalan tanpa henti (selama kondisinya True), sehingga program akan terus meminta pengguna untuk memasukkan bilangan.
@@ -30,17 +30,11 @@ jika kondisi pertama salah, maka memeriksa apakah bilangan2 lebih besar dari pad
 * if input_number == 0:: Program memeriksa apakah bilangan yang dimasukkan oleh pengguna adalah 0. Jika iya, maka program akan keluar dari loop while dengan pernyataan break, sehingga pengguna dapat menghentikan input dengan memasukkan 0.
 * if max_number is None or input_number > max_number:: Program memeriksa apakah nilai max_number saat ini adalah None (belum ada bilangan yang dimasukkan sebelumnya) atau apakah input_number lebih besar dari max_number yang sebelumnya. Jika salah satu kondisi ini terpenuhi, maka max_number akan diubah menjadi input_number.
 
-# OUTPUTNYA
-
 # LATIHAN3
 * total_keuntungan += modal_awal * 0.01: Pada bulan 3, laba 1% dari modal awal ditambahkan ke total_keuntungan.
 * total_keuntungan += modal_awal * 0.05: Pada bulan 5, laba 5% dari modal awal ditambahkan ke total_keuntungan.
 * total_keuntungan += modal_awal * 0.03: Pada bulan 8, laba 3% dari modal awal ditambahkan ke total_keuntungan.
 * print("Total Keuntungan selama 8 bulan adalah: Rp", total_keuntungan): Ini adalah perintah cetak yang digunakan untuk mencetak hasil perhitungan total keuntungan selama 8 bulan ke layar. Pesan ini juga mencantumkan jumlah keuntungan dalam bentuk mata uang (Rupiah).
-
-# OUTPUTNYA
-
-# OUTPUTNYA
 
 # PERULANGAN
 * kolom = baris: Variabel kolom juga diatur sama dengan baris. Ini berarti bahwa segitiga yang dihasilkan akan memiliki jumlah kolom yang sama dengan jumlah baris.
